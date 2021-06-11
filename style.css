@@ -1,0 +1,12 @@
+*{
+	background-color: black;
+}
+.clock{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translateX(-50%) translateY(-50%);
+	color: #daa520;
+	font-family: 'Orbitron';
+	font-size: 60px;
+}
